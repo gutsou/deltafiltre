@@ -66,7 +66,7 @@ Protocole E0–E7 pré-enregistré : étalonnage au banc contre manomètre de r�
 
 Projet de R&D personnel. Le dossier complet (phases 1–12 : carte des problèmes, art antérieur, fondement scientifique, revue critique, faisabilité, évaluation PI) existe hors dépôt.
 
-⚠ **Propriété intellectuelle :** une évaluation PI interne conclut que les revendications larges sur le dispositif sont anticipées (art antérieur ancien) ; seule la méthode intégrée (base + dérive + contrôle de zéro + porte d'incertitude) mériterait un examen professionnel. **Avis juridique recommandé avant toute divulgation publique** — ce dépôt est privé par défaut.
+⚠ **Propriété intellectuelle :** une évaluation PI interne conclut que les revendications larges sur le dispositif sont anticipées (art antérieur ancien) ; seule la méthode intégrée (base + dérive + contrôle de zéro + porte d'incertitude) mériterait un examen professionnel.
 
 ## Licence
 
